@@ -18,44 +18,47 @@ const IMG = {
   minibus: "/images/car-minibus.png",
 };
 
+const AIRPORT_FOOTER = "Toll Optional   |   Upto 40 km";
+const AIRPORT_FOOTER_HATCH = "Toll Optional   |   Upto 30 km";
+
 const AIRPORT_VEHICLES: Vehicle[] = [
-  { name: "HATCHBACK (4+1)", specs: "AC | Airport Drop | ₹ 1199", image: IMG.hatchback },
-  { name: "SEDAN (4+1)", specs: "AC | Airport Drop | ₹ 1399", image: IMG.sedan },
-  { name: "PRIME SEDAN (4+1)", specs: "AC | Airport Drop | ₹ 1699", image: IMG.sedan },
-  { name: "SUV ERTIGA (6+1)", specs: "AC | Airport Drop | ₹ 1799", image: IMG.suv },
-  { name: "INNOVA (7+1)", specs: "AC | Airport Drop | ₹ 1999", image: IMG.innova },
-  { name: "INNOVA CRYSTA (7+1)", specs: "AC | Airport Drop | ₹ 2299", image: IMG.innova },
-  { name: "INNOVA HYCROSS (7+1)", specs: "AC | Airport Drop | ₹ 2499", image: IMG.innova },
-  { name: "HYCROSS SUNROOF (7+1)", specs: "AC | Airport Drop | ₹ 2999", image: IMG.innova },
-  { name: "TOYOTA FORTUNER (7+1)", specs: "AC | Airport Drop | ₹ 4999", image: IMG.fortuner },
-  { name: "TEMPO TRAVELLER (12+1)", specs: "AC | Airport Drop | ₹ 3999", image: IMG.tempo },
-  { name: "URBANIA (15+1)", specs: "AC | Airport Drop | ₹ 5999", image: IMG.urbania },
-  { name: "MINI BUS (21+1)", specs: "AC | Airport Drop | ₹ 7999", image: IMG.minibus },
+  { name: "HATCHBACK (3+1)", specs: `A/C   ₹ 799\n${AIRPORT_FOOTER_HATCH}`, image: IMG.hatchback },
+  { name: "SEDAN (4+1)", specs: `A/C   ₹ 899\n${AIRPORT_FOOTER}`, image: IMG.sedan },
+  { name: "PRIME SEDAN (4+1)", specs: `A/C   ₹ 999\n${AIRPORT_FOOTER}`, image: IMG.sedan },
+  { name: "SUV ERTIGA (6+1)", specs: `A/C   ₹ 1499\n${AIRPORT_FOOTER}`, image: IMG.suv },
+  { name: "INNOVA (7+1)", specs: `A/C   ₹ 1799\n${AIRPORT_FOOTER}`, image: IMG.innova },
+  { name: "INNOVA CRYSTA (7+1)", specs: `A/C   ₹ 1999\n${AIRPORT_FOOTER}`, image: IMG.innova },
+  { name: "INNOVA HYCROSS (7+1)", specs: `A/C   ₹ 2499\n${AIRPORT_FOOTER}`, image: IMG.innova },
+  { name: "HYCROSS SUNROOF (7+1)", specs: `A/C   ₹ 3999\n${AIRPORT_FOOTER}`, image: IMG.innova },
+  { name: "TOYOTA FORTUNER (7+1)", specs: `A/C   ₹ 4000\n${AIRPORT_FOOTER}`, image: IMG.fortuner },
+  { name: "TEMPO TRAVELLER (12+1)", specs: `A/C   ₹ 5000\n${AIRPORT_FOOTER}`, image: IMG.tempo },
+  { name: "URBANIA (16+1)", specs: `A/C   ₹ 6000\n${AIRPORT_FOOTER}`, image: IMG.urbania },
+  { name: "MINI BUS (21+1)", specs: `A/C   ₹ 7000\n${AIRPORT_FOOTER}`, image: IMG.minibus },
 ];
 
 const OUTSTATION_VEHICLES: Vehicle[] = [
-  { name: "SEDAN (4+1)", specs: "AC | ₹ 13/km\n250 km/day | Toll & Parking Charges Extra", image: IMG.sedan },
-  { name: "PRIME SEDAN (4+1)", specs: "AC | ₹ 15/km\n250 km/day | Toll & Parking Charges Extra", image: IMG.sedan },
-  { name: "SUV ERTIGA (6+1)", specs: "AC | ₹ 17/km\n250 km/day | Toll & Parking Charges Extra", image: IMG.suv },
-  { name: "INNOVA (7+1)", specs: "AC | ₹ 19/km\n250 km/day | Toll & Parking Charges Extra", image: IMG.innova },
-  { name: "INNOVA CRYSTA (7+1)", specs: "AC | ₹ 22/km\n250 km/day | Toll & Parking Charges Extra", image: IMG.innova },
-  { name: "HYCROSS HYBRID (7+1)", specs: "AC | ₹ 25/km\n250 km/day | Toll & Parking Charges Extra", image: IMG.innova },
-  { name: "TEMPO TRAVELLER (12+1)", specs: "AC | ₹ 28/km\n250 km/day | Toll & Parking Charges Extra", image: IMG.tempo },
-  { name: "URBANIA (15+1)", specs: "AC | ₹ 35/km\n250 km/day | Toll & Parking Charges Extra", image: IMG.urbania },
-  { name: "MINI BUS (21+1)", specs: "AC | ₹ 45/km\n250 km/day | Toll & Parking Charges Extra", image: IMG.minibus },
+  { name: "SEDAN (4+1)", specs: "A/C   ₹ 11/km\nDriver bata : ₹ 300\n(Toll & Parking Charges Extra)", image: IMG.sedan },
+  { name: "PRIME SEDAN (4+1)", specs: "A/C   ₹ 13/km\nDriver bata : ₹ 300\n(Toll & Parking Charges Extra)", image: IMG.sedan },
+  { name: "SUV ERTIGA (6+1)", specs: "A/C   ₹ 15/km\nDriver bata : ₹ 350\n(Toll & Parking Charges Extra)", image: IMG.suv },
+  { name: "INNOVA (7+1)", specs: "A/C   ₹ 17/km\nDriver bata : ₹ 400\n(Toll & Parking Charges Extra)", image: IMG.innova },
+  { name: "INNOVA CRYSTA (7+1)", specs: "A/C   ₹ 18/km\nDriver bata : ₹ 400\n(Toll & Parking Charges Extra)", image: IMG.innova },
+  { name: "HYCROSS HYBRID (7+1)", specs: "A/C   ₹ 20/km\nDriver bata : ₹ 500\n(Toll & Parking Charges Extra)", image: IMG.innova },
+  { name: "TEMPO TRAVELLER (12+1)", specs: "A/C   ₹ 23/km\nDriver bata : ₹ 500\n(Toll & Parking Charges Extra)", image: IMG.tempo },
+  { name: "URBANIA (16+1)", specs: "A/C   ₹ 40/km\nDriver bata : ₹ 1000\n(Toll & Parking Charges Extra)", image: IMG.urbania },
+  { name: "MINI BUS (21+1)", specs: "A/C   ₹ 45/km\nDriver bata : ₹ 1000\n(Toll & Parking Charges Extra)", image: IMG.minibus },
 ];
 
 const LOCAL_VEHICLES: Vehicle[] = [
-  { name: "SEDAN (4+1)", specs: "4 Hr / 40 Km | ₹ 1299\nFuel & Driver Charges Included", image: IMG.sedan },
-  { name: "SEDAN (4+1)", specs: "8 Hr / 80 Km | ₹ 2199\nFuel & Driver Charges Included", image: IMG.sedan },
-  { name: "PRIME SEDAN (4+1)", specs: "8 Hr / 80 Km | ₹ 2499\nFuel & Driver Charges Included", image: IMG.sedan },
-  { name: "ERTIGA (6+1)", specs: "8 Hr / 80 Km | ₹ 2799\nFuel & Driver Charges Included", image: IMG.suv },
-  { name: "INNOVA (7+1)", specs: "8 Hr / 80 Km | ₹ 3199\nFuel & Driver Charges Included", image: IMG.innova },
-  { name: "INNOVA CRYSTA (7+1)", specs: "8 Hr / 80 Km | ₹ 3699\nFuel & Driver Charges Included", image: IMG.innova },
-  { name: "HYCROSS HYBRID (7+1)", specs: "8 Hr / 80 Km | ₹ 4199\nFuel & Driver Charges Included", image: IMG.innova },
-  { name: "TEMPO TRAVELLER (12+1)", specs: "8 Hr / 80 Km | ₹ 4999\nFuel & Driver Charges Included", image: IMG.tempo },
-  { name: "URBANIA (15+1)", specs: "8 Hr / 80 Km | ₹ 6499\nFuel & Driver Charges Included", image: IMG.urbania },
-  { name: "MINI BUS (21+1)", specs: "8 Hr / 80 Km | ₹ 8499\nFuel & Driver Charges Included", image: IMG.minibus },
+  { name: "SEDAN (4+1)", specs: "4 Hrs / 40 Kms   A/C   ₹ 1300\n(Toll & Parking Charges Extra)", image: IMG.sedan },
+  { name: "SEDAN (4+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 2100\n(Toll & Parking Charges Extra)", image: IMG.sedan },
+  { name: "PRIME SEDAN (4+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 2300\n(Toll & Parking Charges Extra)", image: IMG.sedan },
+  { name: "ERTIGA (6+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 2700\n(Toll & Parking Charges Extra)", image: IMG.suv },
+  { name: "INNOVA (7+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 3200\n(Toll & Parking Charges Extra)", image: IMG.innova },
+  { name: "INNOVA CRYSTA (7+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 3500\n(Toll & Parking Charges Extra)", image: IMG.innova },
+  { name: "HYCROSS HYBRID (7+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 4000\n(Toll & Parking Charges Extra)", image: IMG.innova },
+  { name: "TEMPO TRAVELLER (12+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 5000\n(Toll & Parking Charges Extra)", image: IMG.tempo },
+  { name: "URBANIA (16+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 7000\n(Toll & Parking Charges Extra)", image: IMG.urbania },
+  { name: "MINI BUS (21+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 9000\n(Toll & Parking Charges Extra)", image: IMG.minibus },
 ];
 
 function VehicleCard({ vehicle, sectionName }: { vehicle: Vehicle; sectionName: string }) {
@@ -80,7 +83,7 @@ function VehicleCard({ vehicle, sectionName }: { vehicle: Vehicle; sectionName: 
         />
       </div>
       <h3 className="font-bold text-xl text-black mb-2 tracking-tight">{vehicle.name}</h3>
-      <p className="text-black/60 text-sm font-medium mb-8 tracking-wide whitespace-pre-line">
+      <p className="text-black/60 text-sm font-medium mb-8 tracking-wide whitespace-pre-line leading-relaxed">
         {vehicle.specs}
       </p>
 
