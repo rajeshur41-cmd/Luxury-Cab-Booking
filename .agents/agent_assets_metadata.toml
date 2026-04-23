@@ -1,0 +1,61 @@
+uploads = []
+
+[[generated]]
+id = "mxfdYaNlUUigI94bJfq5P"
+uri = "file://artifacts/lr-cabs/public/images/hero-bg.png"
+type = "image"
+title = "airport tarmac golden hour sedan"
+
+[[generated]]
+id = "g77DcUSsIbVI0a6k3SUL1"
+uri = "file://artifacts/lr-cabs/public/images/car-hatchback.png"
+type = "image"
+title = "white hatchback car"
+
+[[generated]]
+id = "iMzEMFhse2k1_xgwJHWFl"
+uri = "file://artifacts/lr-cabs/public/images/car-sedan.png"
+type = "image"
+title = "white sedan car"
+
+[[generated]]
+id = "hptPSyonGl_CO0Kda_c8H"
+uri = "file://artifacts/lr-cabs/public/images/car-suv.png"
+type = "image"
+title = "white suv car"
+
+[[generated]]
+id = "3LxWiQ6TaBFSV0fiCh2li"
+uri = "file://artifacts/lr-cabs/public/images/car-van.png"
+type = "image"
+title = "white van"
+
+[[generated]]
+id = "Y8jv0w4gNERs2OasvihrA"
+uri = "file://artifacts/lr-cabs/public/images/car-minibus.png"
+type = "image"
+title = "white minibus"
+
+[[outputs]]
+id = "_C_5HeaZgJ0vXtf95DqBE"
+uri = "file://artifacts/lr-cabs/public/images/mysore.jpg"
+type = "image"
+title = "Scenic Mysore Palace India landscape golden hour"
+
+[[outputs]]
+id = "RKZvNu37yr2cVKRNxVXz5"
+uri = "file://artifacts/lr-cabs/public/images/coorg.jpg"
+type = "image"
+title = "Scenic Coorg India landscape green tea estate"
+
+[[outputs]]
+id = "Ga2EBbfLXoC4bsyvWdmRT"
+uri = "file://artifacts/lr-cabs/public/images/chikmagalur.jpg"
+type = "image"
+title = "Scenic Chikmagalur India landscape mountains"
+
+[[outputs]]
+id = "fQPXsBOecve3oLXCid-uL"
+uri = "file://artifacts/lr-cabs/public/images/ooty.jpg"
+type = "image"
+title = "Scenic Ooty India landscape nilgiri hills"
