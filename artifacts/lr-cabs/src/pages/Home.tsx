@@ -17,7 +17,7 @@ export default function Home() {
       <Header />
       <main className="flex-1">
         <Hero />
-        <div className="relative z-10 -mt-16 sm:-mt-24 mb-16 px-4 max-w-7xl mx-auto">
+        <div className="relative z-10 mt-12 mb-16 px-4 max-w-7xl mx-auto">
           <BookingBar />
         </div>
         <VehicleSections />
