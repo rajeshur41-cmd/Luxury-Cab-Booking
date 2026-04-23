@@ -50,20 +50,24 @@ export default function Footer() {
           <h3 className="font-semibold text-lg mb-6 text-white">Contact Us</h3>
           <ul className="flex flex-col gap-4">
             <li>
-              <a href="tel:+919876543210" className="flex items-start gap-3 text-white/60 hover:text-primary transition-colors">
+              <a href="tel:+919740437847" className="flex items-start gap-3 text-white/60 hover:text-primary transition-colors">
                 <Phone className="w-5 h-5 text-primary shrink-0 mt-0.5" />
-                <span>+91 98765 43210</span>
+                <span>+91 97404 37847</span>
               </a>
             </li>
             <li>
-              <a href="mailto:info@lrcabs.com" className="flex items-start gap-3 text-white/60 hover:text-primary transition-colors">
+              <a href="mailto:lrcabsandtours@gmail.com" className="flex items-start gap-3 text-white/60 hover:text-primary transition-colors">
                 <Mail className="w-5 h-5 text-primary shrink-0 mt-0.5" />
-                <span>info@lrcabs.com</span>
+                <span>lrcabsandtours@gmail.com</span>
               </a>
             </li>
             <li className="flex items-start gap-3 text-white/60">
               <MapPin className="w-5 h-5 text-primary shrink-0 mt-0.5" />
-              <span>123, Airport Road, Bangalore, Karnataka 560001</span>
+              <span>No 74, Jambu Savari Dinne, Royal County, South Avenue, Gottigere, Kothnur, Bangalore, Karnataka 560083</span>
+            </li>
+            <li className="flex items-start gap-3 text-white/60">
+              <span className="w-5 h-5 shrink-0" />
+              <span className="text-xs uppercase tracking-wider text-primary/80">Open 24 Hours</span>
             </li>
           </ul>
         </div>

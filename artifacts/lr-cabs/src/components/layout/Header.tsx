@@ -52,7 +52,7 @@ export default function Header() {
 
         <div className="hidden md:flex items-center">
           <a
-            href="tel:+919876543210"
+            href="tel:+919740437847"
             className="flex items-center gap-2 bg-gradient-to-r from-[#f4b400] to-[#f5d061] text-black px-6 py-2.5 rounded-full font-semibold hover:shadow-lg hover:scale-105 transition-all"
           >
             <Phone className="w-4 h-4" />
@@ -87,7 +87,7 @@ export default function Header() {
                 </nav>
                 <div className="mt-auto">
                   <a
-                    href="tel:+919876543210"
+                    href="tel:+919740437847"
                     className="flex items-center justify-center gap-2 bg-gradient-to-r from-[#f4b400] to-[#f5d061] text-black w-full py-4 rounded-full font-semibold"
                   >
                     <Phone className="w-5 h-5" />

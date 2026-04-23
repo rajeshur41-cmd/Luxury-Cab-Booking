@@ -89,7 +89,7 @@ function VehicleCard({ vehicle, sectionName }: { vehicle: Vehicle; sectionName: 
 
       <div className="w-full flex flex-col gap-3 mt-auto">
         <a
-          href={`https://wa.me/919876543210?text=${whatsappMsg}`}
+          href={`https://wa.me/919740437847?text=${whatsappMsg}`}
           target="_blank"
           rel="noopener noreferrer"
           className="w-full py-3 rounded-xl bg-gradient-to-r from-[#f4b400] to-[#f5d061] text-black font-bold hover:brightness-105 transition-all"
@@ -97,7 +97,7 @@ function VehicleCard({ vehicle, sectionName }: { vehicle: Vehicle; sectionName: 
           Book Now
         </a>
         <a
-          href={`https://wa.me/919876543210?text=${whatsappMsg}`}
+          href={`https://wa.me/919740437847?text=${whatsappMsg}`}
           target="_blank"
           rel="noopener noreferrer"
           className="w-full py-3 rounded-xl bg-black text-white font-bold hover:bg-black/90 transition-all flex items-center justify-center gap-2"

@@ -22,14 +22,14 @@ export default function CtaSection() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
             <a
-              href="tel:+919876543210"
+              href="tel:+919740437847"
               className="w-full sm:w-auto px-10 py-5 rounded-full bg-gradient-to-r from-[#f4b400] to-[#f5d061] text-black font-bold text-lg hover:scale-105 transition-transform shadow-[0_0_30px_rgba(244,180,0,0.3)] flex items-center justify-center gap-3"
             >
               <Phone className="w-6 h-6" />
               Call +91 98765 43210
             </a>
             <a
-              href="https://wa.me/919876543210?text=Hi%2C%20I%20want%20to%20book%20a%20cab."
+              href="https://wa.me/919740437847?text=Hi%2C%20I%20want%20to%20book%20a%20cab."
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-10 py-5 rounded-full bg-[#25D366] text-white font-bold text-lg hover:scale-105 transition-transform shadow-[0_0_30px_rgba(37,211,102,0.2)] flex items-center justify-center gap-3"

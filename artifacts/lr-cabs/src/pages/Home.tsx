@@ -2,6 +2,7 @@ import React from "react";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import MobileBottomBar from "@/components/layout/MobileBottomBar";
+import FloatingWhatsApp from "@/components/layout/FloatingWhatsApp";
 import Hero from "@/components/home/Hero";
 import BookingBar from "@/components/home/BookingBar";
 import VehicleSections from "@/components/home/VehicleSections";
@@ -27,6 +28,7 @@ export default function Home() {
       </main>
       <Footer />
       <MobileBottomBar />
+      <FloatingWhatsApp />
     </div>
   );
 }

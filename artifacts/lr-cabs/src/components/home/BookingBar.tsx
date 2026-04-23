@@ -18,7 +18,7 @@ const VEHICLES = [
 
 const TRIP_TYPES = ["Airport Taxi", "Outstation", "Local Package"];
 
-const WHATSAPP_NUMBER = "919876543210";
+const WHATSAPP_NUMBER = "919740437847";
 
 export default function BookingBar() {
   const [tripType, setTripType] = useState(TRIP_TYPES[0]);
