@@ -1,0 +1,15 @@
+[build]
+  publish = "dist"
+  command = "pnpm --filter @workspace/lr-cabs build && rm -rf dist && mkdir -p dist && cp -r artifacts/lr-cabs/dist/public/. dist/"
+
+[build.environment]
+  BASE_PATH = "/"
+  PORT = "5000"
+  NODE_ENV = "production"
+  NODE_VERSION = "20"
+  PNPM_VERSION = "9"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
