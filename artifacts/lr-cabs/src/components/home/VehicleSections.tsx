@@ -39,8 +39,8 @@ const AIRPORT_VEHICLES: Vehicle[] = [
 const OUTSTATION_VEHICLES: Vehicle[] = [
   { name: "SEDAN (4+1)", specs: "A/C   ₹ 12/km\nDriver bata : ₹ 400\n(Toll & Parking Charges Extra)", image: IMG.sedan },
   { name: "PRIME SEDAN (4+1)", specs: "A/C   ₹ 13/km\nDriver bata : ₹ 300\n(Toll & Parking Charges Extra)", image: IMG.sedan },
-  { name: "SUV ERTIGA (6+1)", specs: "A/C   ₹ 15/km\nDriver bata : ₹ 350\n(Toll & Parking Charges Extra)", image: IMG.suv },
-  { name: "INNOVA (7+1)", specs: "A/C   ₹ 17/km\nDriver bata : ₹ 400\n(Toll & Parking Charges Extra)", image: IMG.innova },
+  { name: "SUV ERTIGA (6+1)", specs: "A/C   ₹ 16/km\nDriver bata : ₹ 500\n(Toll & Parking Charges Extra)", image: IMG.suv },
+  { name: "INNOVA (7+1)", specs: "A/C   ₹ 19/km\nDriver bata : ₹ 500\n(Toll & Parking Charges Extra)", image: IMG.innova },
   { name: "INNOVA CRYSTA (7+1)", specs: "A/C   ₹ 18/km\nDriver bata : ₹ 400\n(Toll & Parking Charges Extra)", image: IMG.innova },
   { name: "HYCROSS HYBRID (7+1)", specs: "A/C   ₹ 20/km\nDriver bata : ₹ 500\n(Toll & Parking Charges Extra)", image: IMG.innova },
   { name: "TEMPO TRAVELLER (12+1)", specs: "A/C   ₹ 23/km\nDriver bata : ₹ 500\n(Toll & Parking Charges Extra)", image: IMG.tempo },
@@ -50,9 +50,9 @@ const OUTSTATION_VEHICLES: Vehicle[] = [
 
 const LOCAL_VEHICLES: Vehicle[] = [
   { name: "SEDAN (4+1)", specs: "4 Hrs / 40 Kms   A/C   ₹ 1300\n(Toll & Parking Charges Extra)", image: IMG.sedan },
-  { name: "SEDAN (4+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 2100\n(Toll & Parking Charges Extra)", image: IMG.sedan },
+  { name: "SEDAN (4+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 2300\n(Toll & Parking Charges Extra)", image: IMG.sedan },
   { name: "PRIME SEDAN (4+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 2300\n(Toll & Parking Charges Extra)", image: IMG.sedan },
-  { name: "ERTIGA (6+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 2700\n(Toll & Parking Charges Extra)", image: IMG.suv },
+  { name: "ERTIGA (6+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 2800\n(Toll & Parking Charges Extra)", image: IMG.suv },
   { name: "INNOVA (7+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 3200\n(Toll & Parking Charges Extra)", image: IMG.innova },
   { name: "INNOVA CRYSTA (7+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 3500\n(Toll & Parking Charges Extra)", image: IMG.innova },
   { name: "HYCROSS HYBRID (7+1)", specs: "8 Hrs / 80 Kms   A/C   ₹ 4000\n(Toll & Parking Charges Extra)", image: IMG.innova },

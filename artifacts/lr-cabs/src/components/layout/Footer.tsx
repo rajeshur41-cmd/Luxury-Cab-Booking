@@ -56,6 +56,12 @@ export default function Footer() {
               </a>
             </li>
             <li>
+              <a href="tel:+919844577767" className="flex items-start gap-3 text-white/60 hover:text-primary transition-colors">
+                <Phone className="w-5 h-5 text-primary shrink-0 mt-0.5" />
+                <span>+91 98445 77767</span>
+              </a>
+            </li>
+            <li>
               <a href="mailto:lrcabsandtours@gmail.com" className="flex items-start gap-3 text-white/60 hover:text-primary transition-colors">
                 <Mail className="w-5 h-5 text-primary shrink-0 mt-0.5" />
                 <span>lrcabsandtours@gmail.com</span>
