@@ -23,13 +23,13 @@ const AIRPORT_FOOTER_HATCH = "Toll Optional   |   Upto 30 km";
 
 const AIRPORT_VEHICLES: Vehicle[] = [
   { name: "HATCHBACK (3+1)", specs: `A/C   ₹ 799\n${AIRPORT_FOOTER_HATCH}`, image: IMG.hatchback },
-  { name: "SEDAN (4+1)", specs: `A/C   ₹ 899\n${AIRPORT_FOOTER}`, image: IMG.sedan },
-  { name: "PRIME SEDAN (4+1)", specs: `A/C   ₹ 999\n${AIRPORT_FOOTER}`, image: IMG.sedan },
-  { name: "SUV ERTIGA (6+1)", specs: `A/C   ₹ 1499\n${AIRPORT_FOOTER}`, image: IMG.suv },
+  { name: "SEDAN (4+1)", specs: `A/C   ₹ 899\n${AIRPORT_FOOTER_HATCH}`, image: IMG.sedan },
+  { name: "PRIME SEDAN (4+1)", specs: `A/C   ₹ 999\n${AIRPORT_FOOTER_HATCH}`, image: IMG.sedan },
+  { name: "SUV ERTIGA (6+1)", specs: `A/C   ₹ 1499\n${AIRPORT_FOOTER_HATCH}`, image: IMG.suv },
   { name: "INNOVA (7+1)", specs: `A/C   ₹ 1799\n${AIRPORT_FOOTER}`, image: IMG.innova },
   { name: "INNOVA CRYSTA (7+1)", specs: `A/C   ₹ 1999\n${AIRPORT_FOOTER}`, image: IMG.innova },
   { name: "INNOVA HYCROSS (7+1)", specs: `A/C   ₹ 2499\n${AIRPORT_FOOTER}`, image: IMG.innova },
-  { name: "HYCROSS HYBRID (7+1)", specs: `A/C   ₹ 3999\n${AIRPORT_FOOTER}`, image: IMG.innova },
+  { name: "HYCROSS HYBRID (7+1)", specs: `A/C   ₹ 3799\n${AIRPORT_FOOTER}`, image: IMG.innova },
   { name: "TOYOTA FORTUNER (7+1)", specs: `A/C   ₹ 4000\n${AIRPORT_FOOTER}`, image: IMG.fortuner },
   { name: "TEMPO TRAVELLER (12+1)", specs: `A/C   ₹ 5000\n${AIRPORT_FOOTER}`, image: IMG.tempo },
   { name: "URBANIA (16+1)", specs: `A/C   ₹ 6000\n${AIRPORT_FOOTER}`, image: IMG.urbania },
@@ -37,7 +37,7 @@ const AIRPORT_VEHICLES: Vehicle[] = [
 ];
 
 const OUTSTATION_VEHICLES: Vehicle[] = [
-  { name: "SEDAN (4+1)", specs: "A/C   ₹ 11/km\nDriver bata : ₹ 300\n(Toll & Parking Charges Extra)", image: IMG.sedan },
+  { name: "SEDAN (4+1)", specs: "A/C   ₹ 12/km\nDriver bata : ₹ 400\n(Toll & Parking Charges Extra)", image: IMG.sedan },
   { name: "PRIME SEDAN (4+1)", specs: "A/C   ₹ 13/km\nDriver bata : ₹ 300\n(Toll & Parking Charges Extra)", image: IMG.sedan },
   { name: "SUV ERTIGA (6+1)", specs: "A/C   ₹ 15/km\nDriver bata : ₹ 350\n(Toll & Parking Charges Extra)", image: IMG.suv },
   { name: "INNOVA (7+1)", specs: "A/C   ₹ 17/km\nDriver bata : ₹ 400\n(Toll & Parking Charges Extra)", image: IMG.innova },

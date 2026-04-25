@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const ROUTES = [
   { name: "Bangalore to Mysore", price: "₹2,499", image: "/images/mysore.jpg" },
   { name: "Bangalore to Coorg", price: "₹4,999", image: "/images/coorg.jpg" },
-  { name: "Bangalore to Chikmagalur", price: "₹4,499", image: "/images/chikmagalur.jpg" },
+  { name: "Bangalore to Chikmagalur", price: "₹5,000", image: "/images/chikmagalur.jpg" },
   { name: "Bangalore to Ooty", price: "₹5,499", image: "/images/ooty.jpg" },
 ];
 
