@@ -59,3 +59,15 @@ id = "fQPXsBOecve3oLXCid-uL"
 uri = "file://artifacts/lr-cabs/public/images/ooty.jpg"
 type = "image"
 title = "Scenic Ooty India landscape nilgiri hills"
+
+[[outputs]]
+id = "sNI-MuOuFeivPpMTKrey6"
+uri = "file://downloads/lr-cabs-netlify-dist.zip"
+type = "unspecified"
+title = "LR Cabs — Netlify Drag & Drop (recommended)"
+
+[[outputs]]
+id = "CHd8INEtD-QYPRcRTXGJk"
+uri = "file://downloads/lr-cabs-netlify-with-config.zip"
+type = "unspecified"
+title = "LR Cabs — With netlify.toml (Git/CLI deploys)"
