@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="relative w-full h-[80vh] min-h-[600px] flex items-center justify-center pt-20">
       <div className="absolute inset-0 w-full h-full">
         <img
-          src="/images/hero-bg.png"
+          src={`${import.meta.env.BASE_URL}images/hero-bg.png`}
           alt="Premium Taxi Airport"
           className="w-full h-full object-cover object-center"
         />

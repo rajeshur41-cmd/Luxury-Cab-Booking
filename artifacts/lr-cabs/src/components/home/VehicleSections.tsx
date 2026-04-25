@@ -7,15 +7,16 @@ type Vehicle = {
   image: string;
 };
 
+const B = import.meta.env.BASE_URL;
 const IMG = {
-  hatchback: "/images/car-hatchback.png",
-  sedan: "/images/car-sedan.png",
-  suv: "/images/car-suv.png",
-  innova: "/images/car-suv.png",
-  fortuner: "/images/car-suv.png",
-  tempo: "/images/car-van.png",
-  urbania: "/images/car-van.png",
-  minibus: "/images/car-minibus.png",
+  hatchback: `${B}images/car-hatchback.png`,
+  sedan: `${B}images/car-sedan.png`,
+  suv: `${B}images/car-suv.png`,
+  innova: `${B}images/car-suv.png`,
+  fortuner: `${B}images/car-suv.png`,
+  tempo: `${B}images/car-van.png`,
+  urbania: `${B}images/car-van.png`,
+  minibus: `${B}images/car-minibus.png`,
 };
 
 const AIRPORT_FOOTER = "Toll Optional   |   Upto 40 km";
