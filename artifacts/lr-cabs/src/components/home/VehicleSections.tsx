@@ -29,7 +29,7 @@ const AIRPORT_VEHICLES: Vehicle[] = [
   { name: "INNOVA (7+1)", specs: `A/C   ₹ 1799\n${AIRPORT_FOOTER}`, image: IMG.innova },
   { name: "INNOVA CRYSTA (7+1)", specs: `A/C   ₹ 1999\n${AIRPORT_FOOTER}`, image: IMG.innova },
   { name: "INNOVA HYCROSS (7+1)", specs: `A/C   ₹ 2499\n${AIRPORT_FOOTER}`, image: IMG.innova },
-  { name: "HYCROSS SUNROOF (7+1)", specs: `A/C   ₹ 3999\n${AIRPORT_FOOTER}`, image: IMG.innova },
+  { name: "HYCROSS HYBRID (7+1)", specs: `A/C   ₹ 3999\n${AIRPORT_FOOTER}`, image: IMG.innova },
   { name: "TOYOTA FORTUNER (7+1)", specs: `A/C   ₹ 4000\n${AIRPORT_FOOTER}`, image: IMG.fortuner },
   { name: "TEMPO TRAVELLER (12+1)", specs: `A/C   ₹ 5000\n${AIRPORT_FOOTER}`, image: IMG.tempo },
   { name: "URBANIA (16+1)", specs: `A/C   ₹ 6000\n${AIRPORT_FOOTER}`, image: IMG.urbania },
