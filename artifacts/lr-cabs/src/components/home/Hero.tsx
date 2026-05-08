@@ -4,24 +4,34 @@ import { Phone, Package } from "lucide-react";
 
 const SLIDES = [
   {
-    url: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1920&q=80",
-    label: "Airport Transfers",
+    // Black luxury sedan at airport drop-off
+    url: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=85",
+    label: "Premium Airport Cab",
   },
   {
-    url: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&q=80",
-    label: "Mountain Road Trips",
+    // White luxury car on road — premium airport transfer feel
+    url: "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1920&q=85",
+    label: "Luxury Airport Transfer",
   },
   {
-    url: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80",
-    label: "Beach Getaways",
+    // Close-up of car keys — car rental concept
+    url: "https://images.unsplash.com/photo-1485291571150-772bcfc10da5?w=1920&q=85",
+    label: "Premium Car Rentals",
   },
   {
-    url: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1920&q=80",
-    label: "Scenic Destinations",
+    // Luxury BMW parked — fleet showcase
+    url: "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=1920&q=85",
+    label: "Luxury Fleet",
   },
   {
-    url: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1920&q=80",
-    label: "City Night Rides",
+    // Open road through lush green landscape — outstation
+    url: "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1920&q=85",
+    label: "Outstation Journeys",
+  },
+  {
+    // Mountain road — scenic outstation trip
+    url: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&q=85",
+    label: "Scenic Road Trips",
   },
 ];
 
