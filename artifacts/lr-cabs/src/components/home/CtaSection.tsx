@@ -34,7 +34,7 @@ export default function CtaSection() {
               </button>
 
               <a
-                href="https://wa.me/919844577767?text=Hi%2C%20I%20want%20to%20book%20a%20cab."
+                href="https://wa.me/917019619747?text=Hi%2C%20I%20want%20to%20book%20a%20cab."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto px-10 py-5 rounded-full bg-[#25D366] text-white font-bold text-lg hover:scale-105 transition-transform shadow-[0_0_30px_rgba(37,211,102,0.2)] flex items-center justify-center gap-3"

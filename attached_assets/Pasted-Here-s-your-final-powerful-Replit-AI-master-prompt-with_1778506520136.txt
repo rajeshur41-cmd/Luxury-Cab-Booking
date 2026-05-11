@@ -1,0 +1,307 @@
+Here’s your final powerful Replit AI master prompt with ALL pricing updates, homepage slider improvements, image replacements, and WhatsApp/contact number updates combined into one clean professional prompt.
+
+Update the existing cab booking website/app with ONLY the following changes. Do NOT remove, redesign, restructure, rename, restyle, reorder, or modify anything else unless specifically mentioned below.
+
+Maintain the current:
+
+* UI/UX
+* Layout
+* Design
+* Colors
+* Typography
+* Buttons
+* Responsiveness
+* Backend logic
+* Booking flow
+* Animations
+* Mobile optimization
+* Sections/components
+* API functionality
+* Existing styling
+
+Apply ONLY the requested updates carefully and professionally.
+
+==================================================
+
+1. UPDATE ALL WHATSAPP / CONTACT / BOOKING NUMBERS
+   ==================================================
+
+Replace ALL existing booking/contact/WhatsApp numbers across the ENTIRE website with:
+
++91 70196 19747
+
+This includes:
+
+* WhatsApp buttons
+* Call now buttons
+* Booking buttons
+* Contact sections
+* Footer
+* Header
+* Floating WhatsApp icon
+* Mobile click-to-call links
+* Inquiry sections
+* Airport taxi booking contact
+* Outstation booking contact
+* Local package booking contact
+* Any hidden or popup booking/contact forms
+* SEO/contact metadata if present
+
+Ensure:
+
+* All WhatsApp links open correctly
+* All tel: links work properly
+* Number format remains consistent everywhere
+* Mobile click actions work perfectly
+
+==================================================
+2. AIRPORT TAXI SECTION PRICE UPDATES
+=====================================
+
+Replace:
+
+SEDAN (4+1)
+A/C ₹ 899
+Toll Optional | Upto 30 km
+
+With:
+
+SEDAN (4+1)
+A/C ₹ 949
+Toll Optional | Upto 30 km
+
+---
+
+Keep same if already correct:
+
+PRIME SEDAN (4+1)
+A/C ₹ 999
+Toll Optional | Upto 30 km
+
+---
+
+Replace:
+
+SUV ERTIGA (6+1)
+A/C ₹ 1499
+Toll Optional | Upto 30 km
+
+With:
+
+SUV ERTIGA (6+1)
+A/C ₹ 1599
+Toll Optional | Upto 30 km
+
+---
+
+Replace:
+
+INNOVA (7+1)
+A/C ₹ 1799
+Toll Optional | Upto 40 km
+
+With:
+
+INNOVA (7+1)
+A/C ₹ 1899
+Toll Optional | Upto 40 km
+
+---
+
+Replace:
+
+INNOVA CRYSTA (7+1)
+A/C ₹ 1999
+Toll Optional | Upto 40 km
+
+With:
+
+INNOVA CRYSTA (7+1)
+A/C ₹ 2200
+Toll Optional | Upto 40 km
+
+---
+
+Replace:
+
+HYCROSS HYBRID (7+1)
+A/C ₹ 3799
+Toll Optional | Upto 40 km
+
+With:
+
+HYCROSS HYBRID (7+1)
+A/C ₹ 3100
+Toll Optional | Upto 40 km
+
+---
+
+Replace:
+
+TOYOTA FORTUNER (7+1)
+A/C ₹ 4000
+Toll Optional | Upto 40 km
+
+With:
+
+TOYOTA FORTUNER (7+1)
+A/C ₹ 4499
+Toll Optional | Upto 40 km
+
+---
+
+Replace:
+
+TEMPO TRAVELLER (12+1)
+A/C ₹ 5000
+Toll Optional | Upto 40 km
+
+With:
+
+TEMPO TRAVELLER (12+1)
+A/C ₹ 5499
+Toll Optional | Upto 40 km
+
+---
+
+Replace:
+
+URBANIA (16+1)
+A/C ₹ 6000
+Toll Optional | Upto 40 km
+
+With:
+
+URBANIA (16+1)
+A/C ₹ 6500
+Toll Optional | Upto 40 km
+
+==================================================
+3. OUTSTATION SECTION PRICE UPDATES
+===================================
+
+Replace:
+
+PRIME SEDAN (4+1)
+A/C ₹ 13/km
+Driver bata : ₹ 300
+(Toll & Parking Charges Extra)
+
+With:
+
+PRIME SEDAN (4+1)
+A/C ₹ 14/km
+Driver bata : ₹ 300
+(Toll & Parking Charges Extra)
+
+---
+
+Replace:
+
+INNOVA (7+1)
+A/C ₹ 19/km
+Driver bata : ₹ 500
+(Toll & Parking Charges Extra)
+
+With:
+
+INNOVA (7+1)
+A/C ₹ 18/km
+Driver bata : ₹ 500
+(Toll & Parking Charges Extra)
+
+---
+
+Replace:
+
+INNOVA CRYSTA (7+1)
+A/C ₹ 18/km
+Driver bata : ₹ 400
+(Toll & Parking Charges Extra)
+
+With:
+
+INNOVA CRYSTA (7+1)
+A/C ₹ 19/km
+Driver bata : ₹ 400
+(Toll & Parking Charges Extra)
+
+==================================================
+4. LOCAL PACKAGE SECTION UPDATE
+===============================
+
+Replace:
+
+HYCROSS HYBRID (7+1)
+8 Hrs / 80 Kms A/C ₹ 4000
+(Toll & Parking Charges Extra)
+
+With:
+
+HYCROSS HYBRID (7+1)
+8 Hrs / 80 Kms A/C ₹ 4500
+(Toll & Parking Charges Extra)
+
+==================================================
+5. HOMEPAGE HERO SLIDER IMPROVEMENTS
+====================================
+
+Enable automatic image slider/carousel on homepage hero section.
+
+Requirements:
+
+* Auto-slide every 2 seconds
+* Smooth modern transition animation
+* Infinite loop carousel
+* Fully responsive
+* Mobile swipe enabled
+* Touch support enabled
+* Manual navigation should still work
+* Auto-slide must continue after user interaction
+* Fast loading and optimized performance
+
+==================================================
+6. HERO IMAGE REPLACEMENTS
+==========================
+
+FIRST HERO IMAGE:
+Replace with a premium airport pickup image showing:
+
+* Airport passengers
+* Taxi pickup
+* Driver receiving customers
+* Professional airport transfer service
+* Luxury/premium cab feel
+
+---
+
+THIRD HERO IMAGE:
+Replace with:
+
+* Multiple taxis together
+* Professional taxi fleet
+* Modern commercial cab service image
+* Clean premium transportation branding
+
+Use high-quality royalty-free professional images.
+
+==================================================
+7. IMPORTANT DEVELOPMENT RULES
+==============================
+
+* ONLY make the changes mentioned above
+* Do NOT remove any existing content
+* Do NOT modify unrelated sections
+* Do NOT break existing functionality
+* Do NOT alter backend booking logic
+* Preserve responsiveness perfectly
+* Maintain SEO structure
+* Ensure mobile optimization
+* Keep website lightweight and fast
+* Ensure all buttons and links function correctly
+* Preserve existing animations unless related to slider improvements
+* Keep all existing branding/design intact
+* Apply changes consistently throughout the entire website
+* Double-check every updated price and phone number before finishing
+
+Final result should look cleaner, more premium, modern, smooth, and professional without changing the original website structure.

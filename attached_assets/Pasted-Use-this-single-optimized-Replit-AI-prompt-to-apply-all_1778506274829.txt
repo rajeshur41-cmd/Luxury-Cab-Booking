@@ -1,0 +1,186 @@
+Use this single optimized Replit AI prompt to apply all pricing updates without changing any other design, layout, text, styling, spacing, functionality, or sections.
+
+Update ONLY the following pricing details in the cab booking website/app. Do NOT remove, redesign, reorder, rename, restyle, or modify anything else. Keep all existing UI, cards, buttons, layout, spacing, icons, colors, animations, and functionality exactly the same. ONLY replace the exact pricing text mentioned below.
+
+========================
+AIRPORT TAXI SECTION
+====================
+
+1. Replace:
+   SEDAN (4+1)
+   A/C ₹ 899
+   Toll Optional | Upto 30 km
+
+With:
+SEDAN (4+1)
+A/C ₹ 949
+Toll Optional | Upto 30 km
+
+---
+
+2. Replace:
+   PRIME SEDAN (4+1)
+   A/C ₹ 999
+   Toll Optional | Upto 30 km
+
+With:
+PRIME SEDAN (4+1)
+A/C ₹ 999
+Toll Optional | Upto 30 km
+
+(No change in price, keep same if already correct.)
+
+---
+
+3. Replace:
+   SUV ERTIGA (6+1)
+   A/C ₹ 1499
+   Toll Optional | Upto 30 km
+
+With:
+SUV ERTIGA (6+1)
+A/C ₹ 1599
+Toll Optional | Upto 30 km
+
+---
+
+4. Replace:
+   INNOVA (7+1)
+   A/C ₹ 1799
+   Toll Optional | Upto 40 km
+
+With:
+INNOVA (7+1)
+A/C ₹ 1899
+Toll Optional | Upto 40 km
+
+---
+
+5. Replace:
+   INNOVA CRYSTA (7+1)
+   A/C ₹ 1999
+   Toll Optional | Upto 40 km
+
+With:
+INNOVA CRYSTA (7+1)
+A/C ₹ 2200
+Toll Optional | Upto 40 km
+
+---
+
+6. Replace:
+   HYCROSS HYBRID (7+1)
+   A/C ₹ 3799
+   Toll Optional | Upto 40 km
+
+With:
+HYCROSS HYBRID (7+1)
+A/C ₹ 3100
+Toll Optional | Upto 40 km
+
+---
+
+7. Replace:
+   TOYOTA FORTUNER (7+1)
+   A/C ₹ 4000
+   Toll Optional | Upto 40 km
+
+With:
+TOYOTA FORTUNER (7+1)
+A/C ₹ 4499
+Toll Optional | Upto 40 km
+
+---
+
+8. Replace:
+   TEMPO TRAVELLER (12+1)
+   A/C ₹ 5000
+   Toll Optional | Upto 40 km
+
+With:
+TEMPO TRAVELLER (12+1)
+A/C ₹ 5499
+Toll Optional | Upto 40 km
+
+---
+
+9. Replace:
+   URBANIA (16+1)
+   A/C ₹ 6000
+   Toll Optional | Upto 40 km
+
+With:
+URBANIA (16+1)
+A/C ₹ 6500
+Toll Optional | Upto 40 km
+
+========================
+OUTSTATION SECTION
+==================
+
+1. Replace:
+   PRIME SEDAN (4+1)
+   A/C ₹ 13/km
+   Driver bata : ₹ 300
+   (Toll & Parking Charges Extra)
+
+With:
+PRIME SEDAN (4+1)
+A/C ₹ 14/km
+Driver bata : ₹ 300
+(Toll & Parking Charges Extra)
+
+---
+
+2. Replace:
+   INNOVA (7+1)
+   A/C ₹ 19/km
+   Driver bata : ₹ 500
+   (Toll & Parking Charges Extra)
+
+With:
+INNOVA (7+1)
+A/C ₹ 18/km
+Driver bata : ₹ 500
+(Toll & Parking Charges Extra)
+
+---
+
+3. Replace:
+   INNOVA CRYSTA (7+1)
+   A/C ₹ 18/km
+   Driver bata : ₹ 400
+   (Toll & Parking Charges Extra)
+
+With:
+INNOVA CRYSTA (7+1)
+A/C ₹ 19/km
+Driver bata : ₹ 400
+(Toll & Parking Charges Extra)
+
+========================
+LOCAL PACKAGE SECTION
+=====================
+
+1. Replace:
+   HYCROSS HYBRID (7+1)
+   8 Hrs / 80 Kms A/C ₹ 4000
+   (Toll & Parking Charges Extra)
+
+With:
+HYCROSS HYBRID (7+1)
+8 Hrs / 80 Kms A/C ₹ 4500
+(Toll & Parking Charges Extra)
+
+========================
+IMPORTANT INSTRUCTIONS
+======================
+
+* ONLY update the exact pricing/content mentioned above.
+* Do NOT modify any other text/content.
+* Do NOT remove any sections/cards/components.
+* Do NOT change design, CSS, responsiveness, spacing, animations, icons, images, or layout.
+* Do NOT break existing functionality.
+* Keep formatting and styling exactly the same.
+* Apply changes everywhere these exact entries appear.
+* Ensure all updated prices display correctly on desktop and mobile.

@@ -47,7 +47,7 @@ export default function PopularRoutes() {
                   </div>
                   <h3 className="text-white font-bold text-xl mb-4 leading-tight">{route.name}</h3>
                   <a
-                    href={`https://wa.me/919844577767?text=${whatsappMsg}`}
+                    href={`https://wa.me/917019619747?text=${whatsappMsg}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full py-3 rounded-xl bg-white text-black text-center font-bold hover:bg-primary transition-colors opacity-0 translate-y-4 group-hover:opacity-100 group-hover:translate-y-0 duration-300"

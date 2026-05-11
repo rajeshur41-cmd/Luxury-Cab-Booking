@@ -3,8 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Phone, X } from "lucide-react";
 
 const PHONES = [
-  { label: "+91 79961 41444", href: "tel:+917996141444" },
-  { label: "+91 98445 77767", href: "tel:+919844577767" },
+  { label: "+91 70196 19747", href: "tel:+917019619747" },
 ];
 
 interface CallModalProps {
@@ -24,7 +23,6 @@ export default function CallModal({ open, onClose }: CallModalProps) {
     <AnimatePresence>
       {open && (
         <>
-          {/* Backdrop */}
           <motion.div
             key="backdrop"
             initial={{ opacity: 0 }}
@@ -34,8 +32,6 @@ export default function CallModal({ open, onClose }: CallModalProps) {
             onClick={onClose}
             className="fixed inset-0 bg-black/70 backdrop-blur-sm z-[100]"
           />
-
-          {/* Modal — bottom sheet on mobile, centered card on desktop */}
           <motion.div
             key="modal"
             initial={{ opacity: 0, y: 60 }}
@@ -45,13 +41,11 @@ export default function CallModal({ open, onClose }: CallModalProps) {
             className="fixed z-[101] bottom-0 inset-x-0 sm:inset-auto sm:bottom-auto sm:top-1/2 sm:left-1/2 sm:-translate-x-1/2 sm:-translate-y-1/2 sm:w-full sm:max-w-sm"
           >
             <div className="bg-[#111] border border-white/10 rounded-t-3xl sm:rounded-2xl p-7 shadow-2xl">
-              {/* Handle bar on mobile */}
               <div className="sm:hidden w-10 h-1 bg-white/20 rounded-full mx-auto mb-6" />
-
               <div className="flex items-start justify-between mb-6">
                 <div>
                   <h3 className="text-white font-bold text-xl">Call Us</h3>
-                  <p className="text-white/50 text-sm mt-0.5">Tap a number to call instantly</p>
+                  <p className="text-white/50 text-sm mt-0.5">Tap to call instantly</p>
                 </div>
                 <button
                   onClick={onClose}
@@ -61,7 +55,6 @@ export default function CallModal({ open, onClose }: CallModalProps) {
                   <X className="w-4 h-4" />
                 </button>
               </div>
-
               <div className="flex flex-col gap-3">
                 {PHONES.map((p) => (
                   <a
@@ -76,7 +69,6 @@ export default function CallModal({ open, onClose }: CallModalProps) {
                   </a>
                 ))}
               </div>
-
               <p className="text-center text-white/30 text-xs mt-5">Available 24/7 · LR Cabs & Tours</p>
             </div>
           </motion.div>

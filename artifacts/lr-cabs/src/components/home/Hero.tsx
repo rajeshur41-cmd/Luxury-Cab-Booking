@@ -4,8 +4,8 @@ import { Phone, Package } from "lucide-react";
 
 const SLIDES = [
   {
-    // Black luxury sedan at airport drop-off
-    url: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=85",
+    // Airport passengers with professional cab pickup
+    url: "https://images.unsplash.com/photo-1527482797697-8795b05a13fe?w=1920&q=85",
     label: "Premium Airport Cab",
   },
   {
@@ -14,9 +14,9 @@ const SLIDES = [
     label: "Luxury Airport Transfer",
   },
   {
-    // Close-up of car keys — car rental concept
-    url: "https://images.unsplash.com/photo-1485291571150-772bcfc10da5?w=1920&q=85",
-    label: "Premium Car Rentals",
+    // Professional taxi fleet — multiple cabs together
+    url: "https://images.unsplash.com/photo-1504215680853-026ed2a45def?w=1920&q=85",
+    label: "Professional Taxi Fleet",
   },
   {
     // Luxury BMW parked — fleet showcase
@@ -35,7 +35,7 @@ const SLIDES = [
   },
 ];
 
-const INTERVAL = 4000;
+const INTERVAL = 2000;
 
 export default function Hero() {
   const [current, setCurrent] = useState(0);
