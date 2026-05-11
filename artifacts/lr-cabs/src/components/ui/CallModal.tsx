@@ -4,6 +4,7 @@ import { Phone, X } from "lucide-react";
 
 const PHONES = [
   { label: "+91 70196 19747", href: "tel:+917019619747" },
+  { label: "+91 98445 77767", href: "tel:+919844577767" },
 ];
 
 interface CallModalProps {
