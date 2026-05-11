@@ -4,8 +4,7 @@ import { Phone, Package } from "lucide-react";
 
 const SLIDES = [
   {
-    // Airport passengers with professional cab pickup
-    url: "https://images.unsplash.com/photo-1527482797697-8795b05a13fe?w=1920&q=85",
+    url: `${import.meta.env.BASE_URL}images/hero-airport-taxi.png`,
     label: "Premium Airport Cab",
   },
   {
@@ -14,9 +13,8 @@ const SLIDES = [
     label: "Luxury Airport Transfer",
   },
   {
-    // Professional taxi fleet — multiple cabs together
-    url: "https://images.unsplash.com/photo-1504215680853-026ed2a45def?w=1920&q=85",
-    label: "Professional Taxi Fleet",
+    url: `${import.meta.env.BASE_URL}images/hero-car-rental.png`,
+    label: "Car Rentals",
   },
   {
     // Luxury BMW parked — fleet showcase
