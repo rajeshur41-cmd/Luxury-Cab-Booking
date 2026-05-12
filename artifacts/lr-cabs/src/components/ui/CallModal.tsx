@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Phone, X } from "lucide-react";
 
 const PHONES = [
-  { label: "+91 70196 19747", href: "tel:+917019619747" },
+  { label: "+91 79961 41444", href: "tel:+917996141444" },
   { label: "+91 98445 77767", href: "tel:+919844577767" },
 ];
 

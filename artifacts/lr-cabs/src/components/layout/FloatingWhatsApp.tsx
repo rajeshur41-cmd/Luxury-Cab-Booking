@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const WHATSAPP_URL =
-  "https://wa.me/917019619747?text=Hi%20LR%20Cabs%2C%20I%20would%20like%20to%20book%20a%20cab.";
+  "https://wa.me/917996141444?text=Hi%20LR%20Cabs%2C%20I%20would%20like%20to%20book%20a%20cab.";
 
 export default function FloatingWhatsApp() {
   return (
